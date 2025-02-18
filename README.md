@@ -30,5 +30,5 @@
 <h2 align="left">🚀 Sobre mí</h2>
 
 - 🔭 Actualmente estoy trabajando en **[Easy Market]**  
-- 🌱 Estoy aprendiendo **[PHP/Front]**  
-- 📫 Contáctame: **darcko.mella@inacapmail.cl**
+- 🌱 Estoy aprendiendo **[JavaScript/Node]**  
+- 📫 Contáctame: **darckomella@gmail.com**
